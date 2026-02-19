@@ -39,32 +39,43 @@ The dataset contains customer-level information including:
 1️⃣ Data Understanding & Basic Metrics
 
 -Dataset shape and structure
+
 -Data types validation
+
 -Statistical summaries
+
 -Categorical variable conversion
 
 2️⃣ Non-Graphical Analysis
 
 -Unique value analysis
+
 -Frequency distributions
+
 -Product-wise customer breakdown
 
 3️⃣ Visual Analysis
 
 -Univariate Analysis (Age, Income, Product Popularity)
+
 -Bivariate Analysis (Income vs Product, Miles vs Product)
+
 -Correlation Heatmaps
+
 -Pairplots for multi-variable insights
 
 4️⃣ Missing Value & Outlier Detection
 
 -Null value checks
+
 -Income outlier identification
 
 5️⃣ Probability & Statistical Profiling
 
 -Marginal Probability of Product Purchase
+
 -Conditional Probability (Gender & Income vs Product)
+
 -Customer profiling by product segment
 
 📈 Key Business Insights
