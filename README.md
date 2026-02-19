@@ -9,8 +9,11 @@ The analysis focuses on understanding customer demographics, income distribution
 
 The market research team at AeroFit aims to:
 -Identify the target audience for each treadmill product (KP281, KP481, KP781)
+
 -Understand differences in customer demographics
+
 -Detect behavioral patterns influencing product purchases
+
 -Recommend strategic actions to improve marketing and sales effectiveness
 
 📊 Dataset Overview
@@ -18,20 +21,31 @@ The market research team at AeroFit aims to:
 The dataset contains customer-level information including:
 
 -Product Purchased
+
 -Age
+
 -Gender
+
 -Marital Status
+
 -Education
+
 -Income
+
 -Fitness Level
+
 -age (Weekly)
+
 -Miles (Expected Weekly Run)
 
 🛠️ Tools & Technologies Used
 
 -Python
+
 -Pandas (Data Manipulation)
+
 -Seaborn & Matplotlib (Data Visualization)
+
 -Jupyter Notebook
 
 🔎 Analysis Performed
@@ -81,24 +95,37 @@ The dataset contains customer-level information including:
 📈 Key Business Insights
 
 -KP281 is the most purchased model and serves as the entry-level product.
+
 -KP781 buyers generally have higher income and higher fitness levels.
+
 -High-income customers are more likely to purchase premium models.
+
 -Usage intensity strongly correlates with treadmill model selection.
+
 -Younger customers (20–35 age group) form a major buyer segment.
 
 🚀 Actionable Recommendations
 
 -Target high-income, high-fitness customers for KP781.
+
 -Focus digital marketing on 18–35 age group.
+
 -Introduce couple-based promotional packages.
+
 -Develop a simple fitness-based recommendation engine.
+
 -Ensure consistent inventory availability for KP281.
 
 💼 Business Impact
 
 This analysis enables:
+
 -Better customer segmentation
+
 -Data-driven marketing strategies
+
 -Optimized product positioning
+
 -Improved recommendation accuracy
+
 -Revenue growth opportunities
